@@ -1,0 +1,38 @@
+body{
+    background-color: #fead26;
+    color: #fffdc0;
+    text-align: center;
+    font-family: 'Segoe UI';
+    font-size: 1.5rem;
+}
+.box{
+    background-color: #590f0c;
+    margin-left: 30vh;
+    margin-right: 30vh;
+    border-radius: 35px;
+}
+label{
+    font-size: 4vh;
+}
+::placeholder{
+    text-align: center;
+}
+nav{
+    text-align: left;
+}
+a{
+    color: #590f0c;
+    text-decoration: none;
+}
+a:hover{
+    color: #ca221f;
+    text-decoration: underline;
+}
+button, input, select{
+    font-size: 3vh;
+    border-radius: 8px;
+    background-color: #fead26;
+    color: #fffdc0;
+    text-align: center;
+    border-width: 2px;
+}

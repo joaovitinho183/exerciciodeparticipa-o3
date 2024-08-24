@@ -1,0 +1,29 @@
+body{
+    background-color: #fead26;
+    color: #fffdc0;
+    text-align: center;
+    font-family: 'Segoe UI';
+    font-size: 1.5rem;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #590f0c;
+    margin-left: 70vh;
+    margin-right: 70vh;
+    border-radius: 35px;
+}
+nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+a{
+    color: #b9d7a1;
+    text-decoration: none;
+}
+a:hover{
+    color: #ca221f;
+    text-decoration: underline;
+}
